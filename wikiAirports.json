@@ -1,0 +1,3575 @@
+[
+  {
+    "City": "Birmingham",
+    "State": "Alabama",
+    "FAA": "BHM",
+    "IATA": "BHM",
+    "ICAO": "KBHM",
+    "Airport": "Birmingham–Shuttlesworth International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Dothan",
+    "State": "Alabama",
+    "FAA": "DHN",
+    "IATA": "DHN",
+    "ICAO": "KDHN",
+    "Airport": "Dothan Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Huntsville",
+    "State": "Alabama",
+    "FAA": "HSV",
+    "IATA": "HSV",
+    "ICAO": "KHSV",
+    "Airport": "Huntsville International Airport (Carl T. Jones Field)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Mobile",
+    "State": "Alabama",
+    "FAA": "MOB",
+    "IATA": "MOB",
+    "ICAO": "KMOB",
+    "Airport": "Mobile Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Montgomery",
+    "State": "Alabama",
+    "FAA": "MGM",
+    "IATA": "MGM",
+    "ICAO": "KMGM",
+    "Airport": "Montgomery Regional Airport (Dannelly Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Anchorage",
+    "State": "Alaska",
+    "FAA": "LHD",
+    "IATA": "",
+    "ICAO": "PALH",
+    "Airport": "Lake Hood Seaplane Base (also Lake Hood Airstrip)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Anchorage",
+    "State": "Alaska",
+    "FAA": "MRI",
+    "IATA": "MRI",
+    "ICAO": "PAMR",
+    "Airport": "Merrill Field",
+    "Role": "P-N"
+  },
+  {
+    "City": "Anchorage",
+    "State": "Alaska",
+    "FAA": "ANC",
+    "IATA": "ANC",
+    "ICAO": "PANC",
+    "Airport": "Ted Stevens Anchorage International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Aniak",
+    "State": "Alaska",
+    "FAA": "ANI",
+    "IATA": "ANI",
+    "ICAO": "PANI",
+    "Airport": "Aniak Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Bethel",
+    "State": "Alaska",
+    "FAA": "BET",
+    "IATA": "BET",
+    "ICAO": "PABE",
+    "Airport": "Bethel Airport (also see Bethel Seaplane Base)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Cordova",
+    "State": "Alaska",
+    "FAA": "CDV",
+    "IATA": "CDV",
+    "ICAO": "PACV",
+    "Airport": "Merle K. (Mudhole) Smith Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Deadhorse",
+    "State": "Alaska",
+    "FAA": "SCC",
+    "IATA": "SCC",
+    "ICAO": "PASC",
+    "Airport": "Deadhorse Airport (Prudhoe Bay Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Dillingham",
+    "State": "Alaska",
+    "FAA": "DLG",
+    "IATA": "DLG",
+    "ICAO": "PADL",
+    "Airport": "Dillingham Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Fairbanks",
+    "State": "Alaska",
+    "FAA": "FAI",
+    "IATA": "FAI",
+    "ICAO": "PAFA",
+    "Airport": "Fairbanks International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Gustavus",
+    "State": "Alaska",
+    "FAA": "GST",
+    "IATA": "GST",
+    "ICAO": "PAGS",
+    "Airport": "Gustavus Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Homer",
+    "State": "Alaska",
+    "FAA": "HOM",
+    "IATA": "HOM",
+    "ICAO": "PAHO",
+    "Airport": "Homer Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Juneau",
+    "State": "Alaska",
+    "FAA": "JNU",
+    "IATA": "JNU",
+    "ICAO": "PAJN",
+    "Airport": "Juneau International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Kenai",
+    "State": "Alaska",
+    "FAA": "ENA",
+    "IATA": "ENA",
+    "ICAO": "PAEN",
+    "Airport": "Kenai Municipal Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Ketchikan",
+    "State": "Alaska",
+    "FAA": "KTN",
+    "IATA": "KTN",
+    "ICAO": "PAKT",
+    "Airport": "Ketchikan International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "King Salmon",
+    "State": "Alaska",
+    "FAA": "AKN",
+    "IATA": "AKN",
+    "ICAO": "PAKN",
+    "Airport": "King Salmon Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Klawock",
+    "State": "Alaska",
+    "FAA": "AKW",
+    "IATA": "KLW",
+    "ICAO": "PAKW",
+    "Airport": "Klawock Airport (also see Klawock Seaplane Base)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Kodiak",
+    "State": "Alaska",
+    "FAA": "ADQ",
+    "IATA": "ADQ",
+    "ICAO": "PADQ",
+    "Airport": "Kodiak Airport (Benny Benson State Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Kotzebue",
+    "State": "Alaska",
+    "FAA": "OTZ",
+    "IATA": "OTZ",
+    "ICAO": "PAOT",
+    "Airport": "Ralph Wien Memorial Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Nome",
+    "State": "Alaska",
+    "FAA": "OME",
+    "IATA": "OME",
+    "ICAO": "PAOM",
+    "Airport": "Nome Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Petersburg",
+    "State": "Alaska",
+    "FAA": "PSG",
+    "IATA": "PSG",
+    "ICAO": "PAPG",
+    "Airport": "Petersburg James A. Johnson Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "St. Mary's",
+    "State": "Alaska",
+    "FAA": "KSM",
+    "IATA": "KSM",
+    "ICAO": "PASM",
+    "Airport": "St. Mary's Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Sitka",
+    "State": "Alaska",
+    "FAA": "SIT",
+    "IATA": "SIT",
+    "ICAO": "PASI",
+    "Airport": "Sitka Rocky Gutierrez Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Unalakleet",
+    "State": "Alaska",
+    "FAA": "UNK",
+    "IATA": "UNK",
+    "ICAO": "PAUN",
+    "Airport": "Unalakleet Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Unalaska",
+    "State": "Alaska",
+    "FAA": "DUT",
+    "IATA": "DUT",
+    "ICAO": "PADU",
+    "Airport": "Unalaska Airport (Tom Madsen/Dutch Harbor Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Utqiaġvik (Barrow)",
+    "State": "Alaska",
+    "FAA": "BRW",
+    "IATA": "BRW",
+    "ICAO": "PABR",
+    "Airport": "Wiley Post–Will Rogers Memorial Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Valdez",
+    "State": "Alaska",
+    "FAA": "VDZ",
+    "IATA": "VDZ",
+    "ICAO": "PAVD",
+    "Airport": "Valdez Airport (Pioneer Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Wrangell",
+    "State": "Alaska",
+    "FAA": "WRG",
+    "IATA": "WRG",
+    "ICAO": "PAWG",
+    "Airport": "Wrangell Airport (also see Wrangell Seaplane Base)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Yakutat",
+    "State": "Alaska",
+    "FAA": "YAK",
+    "IATA": "YAK",
+    "ICAO": "PAYA",
+    "Airport": "Yakutat Airport (also see Yakutat Seaplane Base)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Bullhead City",
+    "State": "Arizona",
+    "FAA": "IFP",
+    "IATA": "IFP",
+    "ICAO": "KIFP",
+    "Airport": "Laughlin/Bullhead International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Flagstaff",
+    "State": "Arizona",
+    "FAA": "FLG",
+    "IATA": "FLG",
+    "ICAO": "KFLG",
+    "Airport": "Flagstaff Pulliam Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Grand Canyon",
+    "State": "Arizona",
+    "FAA": "GCN",
+    "IATA": "GCN",
+    "ICAO": "KGCN",
+    "Airport": "Grand Canyon National Park Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Mesa",
+    "State": "Arizona",
+    "FAA": "IWA",
+    "IATA": "AZA",
+    "ICAO": "KIWA",
+    "Airport": "Phoenix–Mesa Gateway Airport (formerly Williams AFB)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Page",
+    "State": "Arizona",
+    "FAA": "PGA",
+    "IATA": "PGA",
+    "ICAO": "KPGA",
+    "Airport": "Page Municipal Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Phoenix",
+    "State": "Arizona",
+    "FAA": "PHX",
+    "IATA": "PHX",
+    "ICAO": "KPHX",
+    "Airport": "Phoenix Sky Harbor International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Prescott",
+    "State": "Arizona",
+    "FAA": "PRC",
+    "IATA": "PRC",
+    "ICAO": "KPRC",
+    "Airport": "Prescott Municipal Airport (Ernest A. Love Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Tucson",
+    "State": "Arizona",
+    "FAA": "TUS",
+    "IATA": "TUS",
+    "ICAO": "KTUS",
+    "Airport": "Tucson International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Yuma",
+    "State": "Arizona",
+    "FAA": "NYL",
+    "IATA": "YUM",
+    "ICAO": "KNYL",
+    "Airport": "Yuma International Airport / MCAS Yuma",
+    "Role": "P-N"
+  },
+  {
+    "City": "Fayetteville",
+    "State": "Arkansas",
+    "FAA": "XNA",
+    "IATA": "XNA",
+    "ICAO": "KXNA",
+    "Airport": "Northwest Arkansas National Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Fort Smith",
+    "State": "Arkansas",
+    "FAA": "FSM",
+    "IATA": "FSM",
+    "ICAO": "KFSM",
+    "Airport": "Fort Smith Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Little Rock",
+    "State": "Arkansas",
+    "FAA": "LIT",
+    "IATA": "LIT",
+    "ICAO": "KLIT",
+    "Airport": "Clinton National Airport (Adams Field) (was Little Rock National)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Texarkana",
+    "State": "Arkansas",
+    "FAA": "TXK",
+    "IATA": "TXK",
+    "ICAO": "KTXK",
+    "Airport": "Texarkana Regional Airport (Webb Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Arcata/Eureka",
+    "State": "California",
+    "FAA": "ACV",
+    "IATA": "ACV",
+    "ICAO": "KACV",
+    "Airport": "Arcata Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Bakersfield",
+    "State": "California",
+    "FAA": "BFL",
+    "IATA": "BFL",
+    "ICAO": "KBFL",
+    "Airport": "Meadows Field",
+    "Role": "P-N"
+  },
+  {
+    "City": "Burbank",
+    "State": "California",
+    "FAA": "BUR",
+    "IATA": "BUR",
+    "ICAO": "KBUR",
+    "Airport": "Hollywood Burbank Airport (was Bob Hope Airport)",
+    "Role": "P-M"
+  },
+  {
+    "City": "Concord",
+    "State": "California",
+    "FAA": "CCR",
+    "IATA": "CCR",
+    "ICAO": "KCCR",
+    "Airport": "Buchanan Field Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Fresno",
+    "State": "California",
+    "FAA": "FAT",
+    "IATA": "FAT",
+    "ICAO": "KFAT",
+    "Airport": "Fresno Yosemite International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Long Beach",
+    "State": "California",
+    "FAA": "LGB",
+    "IATA": "LGB",
+    "ICAO": "KLGB",
+    "Airport": "Long Beach Airport (Daugherty Field)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Los Angeles",
+    "State": "California",
+    "FAA": "LAX",
+    "IATA": "LAX",
+    "ICAO": "KLAX",
+    "Airport": "Los Angeles International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Mammoth Lakes",
+    "State": "California",
+    "FAA": "MMH",
+    "IATA": "MMH",
+    "ICAO": "KMMH",
+    "Airport": "Mammoth Yosemite Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Monterey",
+    "State": "California",
+    "FAA": "MRY",
+    "IATA": "MRY",
+    "ICAO": "KMRY",
+    "Airport": "Monterey Regional Airport (was Monterey Peninsula Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Oakland",
+    "State": "California",
+    "FAA": "OAK",
+    "IATA": "OAK",
+    "ICAO": "KOAK",
+    "Airport": "Oakland International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Ontario",
+    "State": "California",
+    "FAA": "ONT",
+    "IATA": "ONT",
+    "ICAO": "KONT",
+    "Airport": "Ontario International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Orange County",
+    "State": "California",
+    "FAA": "SNA",
+    "IATA": "SNA",
+    "ICAO": "KSNA",
+    "Airport": "John Wayne Airport (was Orange County Airport)",
+    "Role": "P-M"
+  },
+  {
+    "City": "Palm Springs",
+    "State": "California",
+    "FAA": "PSP",
+    "IATA": "PSP",
+    "ICAO": "KPSP",
+    "Airport": "Palm Springs International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Redding",
+    "State": "California",
+    "FAA": "RDD",
+    "IATA": "RDD",
+    "ICAO": "KRDD",
+    "Airport": "Redding Municipal Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Sacramento",
+    "State": "California",
+    "FAA": "SMF",
+    "IATA": "SMF",
+    "ICAO": "KSMF",
+    "Airport": "Sacramento International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "San Diego",
+    "State": "California",
+    "FAA": "SAN",
+    "IATA": "SAN",
+    "ICAO": "KSAN",
+    "Airport": "San Diego International Airport (Lindbergh Field)",
+    "Role": "P-L"
+  },
+  {
+    "City": "San Francisco",
+    "State": "California",
+    "FAA": "SFO",
+    "IATA": "SFO",
+    "ICAO": "KSFO",
+    "Airport": "San Francisco International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "San Jose",
+    "State": "California",
+    "FAA": "SJC",
+    "IATA": "SJC",
+    "ICAO": "KSJC",
+    "Airport": "Norman Y. Mineta San José International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "San Luis Obispo",
+    "State": "California",
+    "FAA": "SBP",
+    "IATA": "SBP",
+    "ICAO": "KSBP",
+    "Airport": "San Luis Obispo County Regional Airport (McChesney Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Santa Barbara",
+    "State": "California",
+    "FAA": "SBA",
+    "IATA": "SBA",
+    "ICAO": "KSBA",
+    "Airport": "Santa Barbara Municipal Airport (Santa Barbara Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Santa Maria",
+    "State": "California",
+    "FAA": "SMX",
+    "IATA": "SMX",
+    "ICAO": "KSMX",
+    "Airport": "Santa Maria Public Airport (Capt G. Allan Hancock Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Santa Rosa",
+    "State": "California",
+    "FAA": "STS",
+    "IATA": "STS",
+    "ICAO": "KSTS",
+    "Airport": "Charles M. Schulz–Sonoma County Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Stockton",
+    "State": "California",
+    "FAA": "SCK",
+    "IATA": "SCK",
+    "ICAO": "KSCK",
+    "Airport": "Stockton Metropolitan Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Aspen",
+    "State": "Colorado",
+    "FAA": "ASE",
+    "IATA": "ASE",
+    "ICAO": "KASE",
+    "Airport": "Aspen/Pitkin County Airport (Sardy Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Colorado Springs",
+    "State": "Colorado",
+    "FAA": "COS",
+    "IATA": "COS",
+    "ICAO": "KCOS",
+    "Airport": "City of Colorado Springs Municipal Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Denver",
+    "State": "Colorado",
+    "FAA": "DEN",
+    "IATA": "DEN",
+    "ICAO": "KDEN",
+    "Airport": "Denver International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Durango",
+    "State": "Colorado",
+    "FAA": "DRO",
+    "IATA": "DRO",
+    "ICAO": "KDRO",
+    "Airport": "Durango–La Plata County Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Eagle/Vail",
+    "State": "Colorado",
+    "FAA": "EGE",
+    "IATA": "EGE",
+    "ICAO": "KEGE",
+    "Airport": "Eagle County Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Grand Junction",
+    "State": "Colorado",
+    "FAA": "GJT",
+    "IATA": "GJT",
+    "ICAO": "KGJT",
+    "Airport": "Grand Junction Regional Airport (Walker Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Gunnison",
+    "State": "Colorado",
+    "FAA": "GUC",
+    "IATA": "GUC",
+    "ICAO": "KGUC",
+    "Airport": "Gunnison–Crested Butte Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Hayden",
+    "State": "Colorado",
+    "FAA": "HDN",
+    "IATA": "HDN",
+    "ICAO": "KHDN",
+    "Airport": "Yampa Valley Airport (Yampa Valley Regional)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Montrose",
+    "State": "Colorado",
+    "FAA": "MTJ",
+    "IATA": "MTJ",
+    "ICAO": "KMTJ",
+    "Airport": "Montrose Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Pueblo",
+    "State": "Colorado",
+    "FAA": "PUB",
+    "IATA": "PUB",
+    "ICAO": "KPUB",
+    "Airport": "Pueblo Memorial Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Hartford",
+    "State": "Connecticut",
+    "FAA": "BDL",
+    "IATA": "BDL",
+    "ICAO": "KBDL",
+    "Airport": "Bradley International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "New Haven",
+    "State": "Connecticut",
+    "FAA": "HVN",
+    "IATA": "HVN",
+    "ICAO": "KHVN",
+    "Airport": "Tweed-New Haven Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Daytona Beach",
+    "State": "Florida",
+    "FAA": "DAB",
+    "IATA": "DAB",
+    "ICAO": "KDAB",
+    "Airport": "Daytona Beach International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Fort Lauderdale",
+    "State": "Florida",
+    "FAA": "FLL",
+    "IATA": "FLL",
+    "ICAO": "KFLL",
+    "Airport": "Fort Lauderdale–Hollywood International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Fort Myers",
+    "State": "Florida",
+    "FAA": "RSW",
+    "IATA": "RSW",
+    "ICAO": "KRSW",
+    "Airport": "Southwest Florida International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Fort Walton Beach",
+    "State": "Florida",
+    "FAA": "VPS",
+    "IATA": "VPS",
+    "ICAO": "KVPS",
+    "Airport": "Destin–Fort Walton Beach Airport / Eglin Air Force Base",
+    "Role": "P-S"
+  },
+  {
+    "City": "Gainesville",
+    "State": "Florida",
+    "FAA": "GNV",
+    "IATA": "GNV",
+    "ICAO": "KGNV",
+    "Airport": "Gainesville Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Jacksonville",
+    "State": "Florida",
+    "FAA": "JAX",
+    "IATA": "JAX",
+    "ICAO": "KJAX",
+    "Airport": "Jacksonville International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Key West",
+    "State": "Florida",
+    "FAA": "EYW",
+    "IATA": "EYW",
+    "ICAO": "KEYW",
+    "Airport": "Key West International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Melbourne",
+    "State": "Florida",
+    "FAA": "MLB",
+    "IATA": "MLB",
+    "ICAO": "KMLB",
+    "Airport": "Melbourne Orlando International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Miami",
+    "State": "Florida",
+    "FAA": "MIA",
+    "IATA": "MIA",
+    "ICAO": "KMIA",
+    "Airport": "Miami International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Orlando",
+    "State": "Florida",
+    "FAA": "MCO",
+    "IATA": "MCO",
+    "ICAO": "KMCO",
+    "Airport": "Orlando International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Panama City",
+    "State": "Florida",
+    "FAA": "ECP",
+    "IATA": "ECP",
+    "ICAO": "KECP",
+    "Airport": "Northwest Florida Beaches International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Pensacola",
+    "State": "Florida",
+    "FAA": "PNS",
+    "IATA": "PNS",
+    "ICAO": "KPNS",
+    "Airport": "Pensacola International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Punta Gorda",
+    "State": "Florida",
+    "FAA": "PGD",
+    "IATA": "PGD",
+    "ICAO": "KPGD",
+    "Airport": "Punta Gorda Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Sanford",
+    "State": "Florida",
+    "FAA": "SFB",
+    "IATA": "SFB",
+    "ICAO": "KSFB",
+    "Airport": "Orlando Sanford International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Sarasota",
+    "State": "Florida",
+    "FAA": "SRQ",
+    "IATA": "SRQ",
+    "ICAO": "KSRQ",
+    "Airport": "Sarasota–Bradenton International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "St. Petersburg",
+    "State": "Florida",
+    "FAA": "PIE",
+    "IATA": "PIE",
+    "ICAO": "KPIE",
+    "Airport": "St. Pete–Clearwater International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Tallahassee",
+    "State": "Florida",
+    "FAA": "TLH",
+    "IATA": "TLH",
+    "ICAO": "KTLH",
+    "Airport": "Tallahassee International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Tampa",
+    "State": "Florida",
+    "FAA": "TPA",
+    "IATA": "TPA",
+    "ICAO": "KTPA",
+    "Airport": "Tampa International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Vero Beach",
+    "State": "Florida",
+    "FAA": "VRB",
+    "IATA": "VRB",
+    "ICAO": "KVRB",
+    "Airport": "Vero Beach Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "West Palm Beach",
+    "State": "Florida",
+    "FAA": "PBI",
+    "IATA": "PBI",
+    "ICAO": "KPBI",
+    "Airport": "Palm Beach International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Albany",
+    "State": "Georgia",
+    "FAA": "ABY",
+    "IATA": "ABY",
+    "ICAO": "KABY",
+    "Airport": "Southwest Georgia Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Atlanta",
+    "State": "Georgia",
+    "FAA": "ATL",
+    "IATA": "ATL",
+    "ICAO": "KATL",
+    "Airport": "Hartsfield–Jackson Atlanta International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Augusta",
+    "State": "Georgia",
+    "FAA": "AGS",
+    "IATA": "AGS",
+    "ICAO": "KAGS",
+    "Airport": "Augusta Regional Airport (Bush Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Brunswick",
+    "State": "Georgia",
+    "FAA": "BQK",
+    "IATA": "BQK",
+    "ICAO": "KBQK",
+    "Airport": "Brunswick Golden Isles Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Columbus",
+    "State": "Georgia",
+    "FAA": "CSG",
+    "IATA": "CSG",
+    "ICAO": "KCSG",
+    "Airport": "Columbus Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Macon",
+    "State": "Georgia",
+    "FAA": "MCN",
+    "IATA": "MCN",
+    "ICAO": "KMCN",
+    "Airport": "Middle Georgia Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Savannah",
+    "State": "Georgia",
+    "FAA": "SAV",
+    "IATA": "SAV",
+    "ICAO": "KSAV",
+    "Airport": "Savannah/Hilton Head International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Valdosta",
+    "State": "Georgia",
+    "FAA": "VLD",
+    "IATA": "VLD",
+    "ICAO": "KVLD",
+    "Airport": "Valdosta Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Hilo, Hawaii",
+    "State": "Hawaii",
+    "FAA": "ITO",
+    "IATA": "ITO",
+    "ICAO": "PHTO",
+    "Airport": "Hilo International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Honolulu, Oahu",
+    "State": "Hawaii",
+    "FAA": "HNL",
+    "IATA": "HNL",
+    "ICAO": "PHNL",
+    "Airport": "Daniel K. Inouye International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Kahului, Maui",
+    "State": "Hawaii",
+    "FAA": "OGG",
+    "IATA": "OGG",
+    "ICAO": "PHOG",
+    "Airport": "Kahului Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Kailua-Kona, Hawaii",
+    "State": "Hawaii",
+    "FAA": "KOA",
+    "IATA": "KOA",
+    "ICAO": "PHKO",
+    "Airport": "Ellison Onizuka Kona International Airport at Keahole",
+    "Role": "P-S"
+  },
+  {
+    "City": "Kaunakakai, Molokai",
+    "State": "Hawaii",
+    "FAA": "MKK",
+    "IATA": "MKK",
+    "ICAO": "PHMK",
+    "Airport": "Molokai Airport (Hoolehua Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lanai City, Lanai",
+    "State": "Hawaii",
+    "FAA": "LNY",
+    "IATA": "LNY",
+    "ICAO": "PHNY",
+    "Airport": "Lanai Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lihue, Kauai",
+    "State": "Hawaii",
+    "FAA": "LIH",
+    "IATA": "LIH",
+    "ICAO": "PHLI",
+    "Airport": "Lihue Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Boise",
+    "State": "Idaho",
+    "FAA": "BOI",
+    "IATA": "BOI",
+    "ICAO": "KBOI",
+    "Airport": "Boise Airport (Boise Air Terminal) (Gowen Field)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Hailey / Sun Valley",
+    "State": "Idaho",
+    "FAA": "SUN",
+    "IATA": "SUN",
+    "ICAO": "KSUN",
+    "Airport": "Friedman Memorial Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Idaho Falls",
+    "State": "Idaho",
+    "FAA": "IDA",
+    "IATA": "IDA",
+    "ICAO": "KIDA",
+    "Airport": "Idaho Falls Regional Airport (Fanning Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lewiston",
+    "State": "Idaho",
+    "FAA": "LWS",
+    "IATA": "LWS",
+    "ICAO": "KLWS",
+    "Airport": "Lewiston–Nez Perce County Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Pocatello",
+    "State": "Idaho",
+    "FAA": "PIH",
+    "IATA": "PIH",
+    "ICAO": "KPIH",
+    "Airport": "Pocatello Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Twin Falls",
+    "State": "Idaho",
+    "FAA": "TWF",
+    "IATA": "TWF",
+    "ICAO": "KTWF",
+    "Airport": "Magic Valley Regional Airport (Joslin Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Belleville",
+    "State": "Illinois",
+    "FAA": "BLV",
+    "IATA": "BLV",
+    "ICAO": "KBLV",
+    "Airport": "MidAmerica St. Louis Airport / Scott Air Force Base",
+    "Role": "P-N"
+  },
+  {
+    "City": "Bloomington / Normal",
+    "State": "Illinois",
+    "FAA": "BMI",
+    "IATA": "BMI",
+    "ICAO": "KBMI",
+    "Airport": "Central Illinois Regional Airport at Bloomington-Normal",
+    "Role": "P-N"
+  },
+  {
+    "City": "Champaign / Urbana / Savoy",
+    "State": "Illinois",
+    "FAA": "CMI",
+    "IATA": "CMI",
+    "ICAO": "KCMI",
+    "Airport": "University of Illinois - Willard Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Chicago",
+    "State": "Illinois",
+    "FAA": "MDW",
+    "IATA": "MDW",
+    "ICAO": "KMDW",
+    "Airport": "Chicago Midway International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Chicago",
+    "State": "Illinois",
+    "FAA": "ORD",
+    "IATA": "ORD",
+    "ICAO": "KORD",
+    "Airport": "Chicago O'Hare International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Marion",
+    "State": "Illinois",
+    "FAA": "MWA",
+    "IATA": "MWA",
+    "ICAO": "KMWA",
+    "Airport": "Veterans Airport of Southern Illinois (Williamson County Regional Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Moline",
+    "State": "Illinois",
+    "FAA": "MLI",
+    "IATA": "MLI",
+    "ICAO": "KMLI",
+    "Airport": "Quad City International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Peoria",
+    "State": "Illinois",
+    "FAA": "PIA",
+    "IATA": "PIA",
+    "ICAO": "KPIA",
+    "Airport": "General Downing-Peoria International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Quincy",
+    "State": "Illinois",
+    "FAA": "UIN",
+    "IATA": "UIN",
+    "ICAO": "KUIN",
+    "Airport": "Quincy Regional Airport (Baldwin Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Rockford",
+    "State": "Illinois",
+    "FAA": "RFD",
+    "IATA": "RFD",
+    "ICAO": "KRFD",
+    "Airport": "Chicago Rockford International Airport (was Northwest Chicagoland Regional Airport at Rockford)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Springfield",
+    "State": "Illinois",
+    "FAA": "SPI",
+    "IATA": "SPI",
+    "ICAO": "KSPI",
+    "Airport": "Abraham Lincoln Capital Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Evansville",
+    "State": "Indiana",
+    "FAA": "EVV",
+    "IATA": "EVV",
+    "ICAO": "KEVV",
+    "Airport": "Evansville Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Fort Wayne",
+    "State": "Indiana",
+    "FAA": "FWA",
+    "IATA": "FWA",
+    "ICAO": "KFWA",
+    "Airport": "Fort Wayne International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "FAA": "IND",
+    "IATA": "IND",
+    "ICAO": "KIND",
+    "Airport": "Indianapolis International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "South Bend",
+    "State": "Indiana",
+    "FAA": "SBN",
+    "IATA": "SBN",
+    "ICAO": "KSBN",
+    "Airport": "South Bend International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Cedar Rapids",
+    "State": "Iowa",
+    "FAA": "CID",
+    "IATA": "CID",
+    "ICAO": "KCID",
+    "Airport": "Eastern Iowa Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Des Moines",
+    "State": "Iowa",
+    "FAA": "DSM",
+    "IATA": "DSM",
+    "ICAO": "KDSM",
+    "Airport": "Des Moines International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Dubuque",
+    "State": "Iowa",
+    "FAA": "DBQ",
+    "IATA": "DBQ",
+    "ICAO": "KDBQ",
+    "Airport": "Dubuque Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Sioux City",
+    "State": "Iowa",
+    "FAA": "SUX",
+    "IATA": "SUX",
+    "ICAO": "KSUX",
+    "Airport": "Sioux Gateway Airport (Brig. General Bud Day Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Waterloo",
+    "State": "Iowa",
+    "FAA": "ALO",
+    "IATA": "ALO",
+    "ICAO": "KALO",
+    "Airport": "Waterloo Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Garden City",
+    "State": "Kansas",
+    "FAA": "GCK",
+    "IATA": "GCK",
+    "ICAO": "KGCK",
+    "Airport": "Garden City Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Hays",
+    "State": "Kansas",
+    "FAA": "HYS",
+    "IATA": "HYS",
+    "ICAO": "KHYS",
+    "Airport": "Hays Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Manhattan",
+    "State": "Kansas",
+    "FAA": "MHK",
+    "IATA": "MHK",
+    "ICAO": "KMHK",
+    "Airport": "Manhattan Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Salina",
+    "State": "Kansas",
+    "FAA": "SLN",
+    "IATA": "SLN",
+    "ICAO": "KSLN",
+    "Airport": "Salina Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Wichita",
+    "State": "Kansas",
+    "FAA": "ICT",
+    "IATA": "ICT",
+    "ICAO": "KICT",
+    "Airport": "Wichita Dwight D. Eisenhower National Airport (was Wichita Mid-Continent Airport)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Cincinnati/Covington",
+    "State": "Kentucky",
+    "FAA": "CVG",
+    "IATA": "CVG",
+    "ICAO": "KCVG",
+    "Airport": "Cincinnati/Northern Kentucky International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Lexington",
+    "State": "Kentucky",
+    "FAA": "LEX",
+    "IATA": "LEX",
+    "ICAO": "KLEX",
+    "Airport": "Blue Grass Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Louisville",
+    "State": "Kentucky",
+    "FAA": "SDF",
+    "IATA": "SDF",
+    "ICAO": "KSDF",
+    "Airport": "Louisville International Airport (Standiford Field)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Owensboro",
+    "State": "Kentucky",
+    "FAA": "OWB",
+    "IATA": "OWB",
+    "ICAO": "KOWB",
+    "Airport": "Owensboro–Daviess County Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Paducah",
+    "State": "Kentucky",
+    "FAA": "PAH",
+    "IATA": "PAH",
+    "ICAO": "KPAH",
+    "Airport": "Barkley Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Alexandria",
+    "State": "Louisiana",
+    "FAA": "AEX",
+    "IATA": "AEX",
+    "ICAO": "KAEX",
+    "Airport": "Alexandria International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Baton Rouge",
+    "State": "Louisiana",
+    "FAA": "BTR",
+    "IATA": "BTR",
+    "ICAO": "KBTR",
+    "Airport": "Baton Rouge Metropolitan Airport (Ryan Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lafayette",
+    "State": "Louisiana",
+    "FAA": "LFT",
+    "IATA": "LFT",
+    "ICAO": "KLFT",
+    "Airport": "Lafayette Regional Airport (Paul Fournet Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lake Charles",
+    "State": "Louisiana",
+    "FAA": "LCH",
+    "IATA": "LCH",
+    "ICAO": "KLCH",
+    "Airport": "Lake Charles Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Monroe",
+    "State": "Louisiana",
+    "FAA": "MLU",
+    "IATA": "MLU",
+    "ICAO": "KMLU",
+    "Airport": "Monroe Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "New Orleans",
+    "State": "Louisiana",
+    "FAA": "MSY",
+    "IATA": "MSY",
+    "ICAO": "KMSY",
+    "Airport": "Louis Armstrong New Orleans International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Shreveport",
+    "State": "Louisiana",
+    "FAA": "SHV",
+    "IATA": "SHV",
+    "ICAO": "KSHV",
+    "Airport": "Shreveport Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Bangor",
+    "State": "Maine",
+    "FAA": "BGR",
+    "IATA": "BGR",
+    "ICAO": "KBGR",
+    "Airport": "Bangor International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Portland",
+    "State": "Maine",
+    "FAA": "PWM",
+    "IATA": "PWM",
+    "ICAO": "KPWM",
+    "Airport": "Portland International Jetport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Presque Isle",
+    "State": "Maine",
+    "FAA": "PQI",
+    "IATA": "PQI",
+    "ICAO": "KPQI",
+    "Airport": "Presque Isle International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Rockland",
+    "State": "Maine",
+    "FAA": "RKD",
+    "IATA": "RKD",
+    "ICAO": "KRKD",
+    "Airport": "Knox County Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "",
+    "State": "Maryland",
+    "FAA": "",
+    "IATA": "",
+    "ICAO": "",
+    "Airport": "",
+    "Role": ""
+  },
+  {
+    "City": "Baltimore",
+    "State": "Maryland",
+    "FAA": "BWI",
+    "IATA": "BWI",
+    "ICAO": "KBWI",
+    "Airport": "Baltimore/Washington International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Hagerstown",
+    "State": "Maryland",
+    "FAA": "HGR",
+    "IATA": "HGR",
+    "ICAO": "KHGR",
+    "Airport": "Hagerstown Regional Airport (Richard A. Henson Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Salisbury",
+    "State": "Maryland",
+    "FAA": "SBY",
+    "IATA": "SBY",
+    "ICAO": "KSBY",
+    "Airport": "Salisbury–Ocean City–Wicomico Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Bedford",
+    "State": "Massachusetts",
+    "FAA": "BED",
+    "IATA": "BED",
+    "ICAO": "KBED",
+    "Airport": "Hanscom Field / Hanscom Air Force Base",
+    "Role": "P-N"
+  },
+  {
+    "City": "Boston",
+    "State": "Massachusetts",
+    "FAA": "BOS",
+    "IATA": "BOS",
+    "ICAO": "KBOS",
+    "Airport": "Gen. Edward Lawrence Logan International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Hyannis",
+    "State": "Massachusetts",
+    "FAA": "HYA",
+    "IATA": "HYA",
+    "ICAO": "KHYA",
+    "Airport": "Cape Cod Gateway Airport (Boardman/Polando Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Nantucket",
+    "State": "Massachusetts",
+    "FAA": "ACK",
+    "IATA": "ACK",
+    "ICAO": "KACK",
+    "Airport": "Nantucket Memorial Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Provincetown",
+    "State": "Massachusetts",
+    "FAA": "PVC",
+    "IATA": "PVC",
+    "ICAO": "KPVC",
+    "Airport": "Provincetown Municipal Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Vineyard Haven",
+    "State": "Massachusetts",
+    "FAA": "MVY",
+    "IATA": "MVY",
+    "ICAO": "KMVY",
+    "Airport": "Martha's Vineyard Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Worcester",
+    "State": "Massachusetts",
+    "FAA": "ORH",
+    "IATA": "ORH",
+    "ICAO": "KORH",
+    "Airport": "Worcester Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Alpena",
+    "State": "Michigan",
+    "FAA": "APN",
+    "IATA": "APN",
+    "ICAO": "KAPN",
+    "Airport": "Alpena County Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Detroit",
+    "State": "Michigan",
+    "FAA": "DTW",
+    "IATA": "DTW",
+    "ICAO": "KDTW",
+    "Airport": "Detroit Metro Wayne County Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Escanaba",
+    "State": "Michigan",
+    "FAA": "ESC",
+    "IATA": "ESC",
+    "ICAO": "KESC",
+    "Airport": "Delta County Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Flint",
+    "State": "Michigan",
+    "FAA": "FNT",
+    "IATA": "FNT",
+    "ICAO": "KFNT",
+    "Airport": "Bishop International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Grand Rapids",
+    "State": "Michigan",
+    "FAA": "GRR",
+    "IATA": "GRR",
+    "ICAO": "KGRR",
+    "Airport": "Gerald R. Ford International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Hancock",
+    "State": "Michigan",
+    "FAA": "CMX",
+    "IATA": "CMX",
+    "ICAO": "KCMX",
+    "Airport": "Houghton County Memorial Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Iron Mountain",
+    "State": "Michigan",
+    "FAA": "IMT",
+    "IATA": "IMT",
+    "ICAO": "KIMT",
+    "Airport": "Ford Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Kalamazoo",
+    "State": "Michigan",
+    "FAA": "AZO",
+    "IATA": "AZO",
+    "ICAO": "KAZO",
+    "Airport": "Kalamazoo/Battle Creek International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lansing",
+    "State": "Michigan",
+    "FAA": "LAN",
+    "IATA": "LAN",
+    "ICAO": "KLAN",
+    "Airport": "Capital Region International Airport (was Lansing Capital City)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Marquette",
+    "State": "Michigan",
+    "FAA": "SAW",
+    "IATA": "MQT",
+    "ICAO": "KSAW",
+    "Airport": "Sawyer International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Muskegon",
+    "State": "Michigan",
+    "FAA": "MKG",
+    "IATA": "MKG",
+    "ICAO": "KMKG",
+    "Airport": "Muskegon County Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Pellston",
+    "State": "Michigan",
+    "FAA": "PLN",
+    "IATA": "PLN",
+    "ICAO": "KPLN",
+    "Airport": "Pellston Regional/Emmet County Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Saginaw",
+    "State": "Michigan",
+    "FAA": "MBS",
+    "IATA": "MBS",
+    "ICAO": "KMBS",
+    "Airport": "MBS International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Sault Ste. Marie",
+    "State": "Michigan",
+    "FAA": "CIU",
+    "IATA": "CIU",
+    "ICAO": "KCIU",
+    "Airport": "Chippewa County International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Traverse City",
+    "State": "Michigan",
+    "FAA": "TVC",
+    "IATA": "TVC",
+    "ICAO": "KTVC",
+    "Airport": "Cherry Capital Airport (was Cherry County Airpark)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Bemidji",
+    "State": "Minnesota",
+    "FAA": "BJI",
+    "IATA": "BJI",
+    "ICAO": "KBJI",
+    "Airport": "Bemidji Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Brainerd",
+    "State": "Minnesota",
+    "FAA": "BRD",
+    "IATA": "BRD",
+    "ICAO": "KBRD",
+    "Airport": "Brainerd Lakes Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Duluth",
+    "State": "Minnesota",
+    "FAA": "DLH",
+    "IATA": "DLH",
+    "ICAO": "KDLH",
+    "Airport": "Duluth International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Hibbing",
+    "State": "Minnesota",
+    "FAA": "HIB",
+    "IATA": "HIB",
+    "ICAO": "KHIB",
+    "Airport": "Range Regional Airport (was Chisholm–Hibbing Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "International Falls",
+    "State": "Minnesota",
+    "FAA": "INL",
+    "IATA": "INL",
+    "ICAO": "KINL",
+    "Airport": "Falls International Airport (Einarson Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Minneapolis-St. Paul",
+    "State": "Minnesota",
+    "FAA": "MSP",
+    "IATA": "MSP",
+    "ICAO": "KMSP",
+    "Airport": "Minneapolis–St. Paul International/Wold-Chamberlain Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Rochester",
+    "State": "Minnesota",
+    "FAA": "RST",
+    "IATA": "RST",
+    "ICAO": "KRST",
+    "Airport": "Rochester International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "St. Cloud",
+    "State": "Minnesota",
+    "FAA": "STC",
+    "IATA": "STC",
+    "ICAO": "KSTC",
+    "Airport": "St. Cloud Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Columbus",
+    "State": "Mississippi",
+    "FAA": "GTR",
+    "IATA": "GTR",
+    "ICAO": "KGTR",
+    "Airport": "Golden Triangle Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Gulfport / Biloxi",
+    "State": "Mississippi",
+    "FAA": "GPT",
+    "IATA": "GPT",
+    "ICAO": "KGPT",
+    "Airport": "Gulfport–Biloxi International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Jackson",
+    "State": "Mississippi",
+    "FAA": "JAN",
+    "IATA": "JAN",
+    "ICAO": "KJAN",
+    "Airport": "Jackson–Medgar Wiley Evers International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Meridian",
+    "State": "Mississippi",
+    "FAA": "MEI",
+    "IATA": "MEI",
+    "ICAO": "KMEI",
+    "Airport": "Key Field",
+    "Role": "P-N"
+  },
+  {
+    "City": "Tupelo",
+    "State": "Mississippi",
+    "FAA": "TUP",
+    "IATA": "TUP",
+    "ICAO": "KTUP",
+    "Airport": "Tupelo Regional Airport (C.D. Lemons Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Columbia",
+    "State": "Missouri",
+    "FAA": "COU",
+    "IATA": "COU",
+    "ICAO": "KCOU",
+    "Airport": "Columbia Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Joplin",
+    "State": "Missouri",
+    "FAA": "JLN",
+    "IATA": "JLN",
+    "ICAO": "KJLN",
+    "Airport": "Joplin Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Kansas City",
+    "State": "Missouri",
+    "FAA": "MCI",
+    "IATA": "MCI",
+    "ICAO": "KMCI",
+    "Airport": "Kansas City International Airport (was Mid-Continent International)",
+    "Role": "P-M"
+  },
+  {
+    "City": "St. Louis",
+    "State": "Missouri",
+    "FAA": "STL",
+    "IATA": "STL",
+    "ICAO": "KSTL",
+    "Airport": "St. Louis Lambert International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Springfield",
+    "State": "Missouri",
+    "FAA": "SGF",
+    "IATA": "SGF",
+    "ICAO": "KSGF",
+    "Airport": "Springfield–Branson National Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Billings",
+    "State": "Montana",
+    "FAA": "BIL",
+    "IATA": "BIL",
+    "ICAO": "KBIL",
+    "Airport": "Billings Logan International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Bozeman",
+    "State": "Montana",
+    "FAA": "BZN",
+    "IATA": "BZN",
+    "ICAO": "KBZN",
+    "Airport": "Bozeman Yellowstone International Airport (was Gallatin Field)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Butte",
+    "State": "Montana",
+    "FAA": "BTM",
+    "IATA": "BTM",
+    "ICAO": "KBTM",
+    "Airport": "Bert Mooney Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Great Falls",
+    "State": "Montana",
+    "FAA": "GTF",
+    "IATA": "GTF",
+    "ICAO": "KGTF",
+    "Airport": "Great Falls International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Helena",
+    "State": "Montana",
+    "FAA": "HLN",
+    "IATA": "HLN",
+    "ICAO": "KHLN",
+    "Airport": "Helena Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Kalispell",
+    "State": "Montana",
+    "FAA": "GPI",
+    "IATA": "FCA",
+    "ICAO": "KGPI",
+    "Airport": "Glacier Park International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Missoula",
+    "State": "Montana",
+    "FAA": "MSO",
+    "IATA": "MSO",
+    "ICAO": "KMSO",
+    "Airport": "Missoula Montana Airport (was Missoula International Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Sidney",
+    "State": "Montana",
+    "FAA": "SDY",
+    "IATA": "SDY",
+    "ICAO": "KSDY",
+    "Airport": "Sidney-Richland Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "West Yellowstone",
+    "State": "Montana",
+    "FAA": "WYS",
+    "IATA": "WYS",
+    "ICAO": "KWYS",
+    "Airport": "Yellowstone Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Grand Island",
+    "State": "Nebraska",
+    "FAA": "GRI",
+    "IATA": "GRI",
+    "ICAO": "KGRI",
+    "Airport": "Central Nebraska Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lincoln",
+    "State": "Nebraska",
+    "FAA": "LNK",
+    "IATA": "LNK",
+    "ICAO": "KLNK",
+    "Airport": "Lincoln Airport (was Lincoln Municipal)",
+    "Role": "P-N"
+  },
+  {
+    "City": "North Platte",
+    "State": "Nebraska",
+    "FAA": "LBF",
+    "IATA": "LBF",
+    "ICAO": "KLBF",
+    "Airport": "North Platte Regional Airport (Lee Bird Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Omaha",
+    "State": "Nebraska",
+    "FAA": "OMA",
+    "IATA": "OMA",
+    "ICAO": "KOMA",
+    "Airport": "Eppley Airfield",
+    "Role": "P-M"
+  },
+  {
+    "City": "Scottsbluff",
+    "State": "Nebraska",
+    "FAA": "BFF",
+    "IATA": "BFF",
+    "ICAO": "KBFF",
+    "Airport": "Western Nebraska Regional Airport (William B. Heilig Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Boulder City",
+    "State": "Nevada",
+    "FAA": "BVU",
+    "IATA": "BLD",
+    "ICAO": "KBVU",
+    "Airport": "Boulder City Municipal Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Elko",
+    "State": "Nevada",
+    "FAA": "EKO",
+    "IATA": "EKO",
+    "ICAO": "KEKO",
+    "Airport": "Elko Regional Airport (J.C. Harris Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Las Vegas",
+    "State": "Nevada",
+    "FAA": "LAS",
+    "IATA": "LAS",
+    "ICAO": "KLAS",
+    "Airport": "Harry Reid International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Reno",
+    "State": "Nevada",
+    "FAA": "RNO",
+    "IATA": "RNO",
+    "ICAO": "KRNO",
+    "Airport": "Reno/Tahoe International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Lebanon",
+    "State": "New Hampshire",
+    "FAA": "LEB",
+    "IATA": "LEB",
+    "ICAO": "KLEB",
+    "Airport": "Lebanon Municipal Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Manchester",
+    "State": "New Hampshire",
+    "FAA": "MHT",
+    "IATA": "MHT",
+    "ICAO": "KMHT",
+    "Airport": "Manchester–Boston Regional Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Portsmouth",
+    "State": "New Hampshire",
+    "FAA": "PSM",
+    "IATA": "PSM",
+    "ICAO": "KPSM",
+    "Airport": "Portsmouth International Airport at Pease",
+    "Role": "P-N"
+  },
+  {
+    "City": "Atlantic City",
+    "State": "New Jersey",
+    "FAA": "ACY",
+    "IATA": "ACY",
+    "ICAO": "KACY",
+    "Airport": "Atlantic City International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Newark",
+    "State": "New Jersey",
+    "FAA": "EWR",
+    "IATA": "EWR",
+    "ICAO": "KEWR",
+    "Airport": "Newark Liberty International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Trenton",
+    "State": "New Jersey",
+    "FAA": "TTN",
+    "IATA": "TTN",
+    "ICAO": "KTTN",
+    "Airport": "Trenton Mercer Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Albuquerque",
+    "State": "New Mexico",
+    "FAA": "ABQ",
+    "IATA": "ABQ",
+    "ICAO": "KABQ",
+    "Airport": "Albuquerque International Sunport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Hobbs",
+    "State": "New Mexico",
+    "FAA": "HOB",
+    "IATA": "HOB",
+    "ICAO": "KHOB",
+    "Airport": "Lea County Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Roswell",
+    "State": "New Mexico",
+    "FAA": "ROW",
+    "IATA": "ROW",
+    "ICAO": "KROW",
+    "Airport": "Roswell Air Center",
+    "Role": "P-N"
+  },
+  {
+    "City": "Santa Fe",
+    "State": "New Mexico",
+    "FAA": "SAF",
+    "IATA": "SAF",
+    "ICAO": "KSAF",
+    "Airport": "Santa Fe Municipal Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Albany",
+    "State": "New York",
+    "FAA": "ALB",
+    "IATA": "ALB",
+    "ICAO": "KALB",
+    "Airport": "Albany International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Binghamton",
+    "State": "New York",
+    "FAA": "BGM",
+    "IATA": "BGM",
+    "ICAO": "KBGM",
+    "Airport": "Greater Binghamton Airport (Edwin A. Link Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Buffalo",
+    "State": "New York",
+    "FAA": "BUF",
+    "IATA": "BUF",
+    "ICAO": "KBUF",
+    "Airport": "Buffalo Niagara International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Elmira / Corning",
+    "State": "New York",
+    "FAA": "ELM",
+    "IATA": "ELM",
+    "ICAO": "KELM",
+    "Airport": "Elmira/Corning Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Ithaca",
+    "State": "New York",
+    "FAA": "ITH",
+    "IATA": "ITH",
+    "ICAO": "KITH",
+    "Airport": "Ithaca Tompkins International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "New York",
+    "State": "New York",
+    "FAA": "JFK",
+    "IATA": "JFK",
+    "ICAO": "KJFK",
+    "Airport": "John F. Kennedy International Airport (was New York International Airport)",
+    "Role": "P-L"
+  },
+  {
+    "City": "New York",
+    "State": "New York",
+    "FAA": "LGA",
+    "IATA": "LGA",
+    "ICAO": "KLGA",
+    "Airport": "LaGuardia Airport (and Marine Air Terminal)",
+    "Role": "P-L"
+  },
+  {
+    "City": "New York / Islip",
+    "State": "New York",
+    "FAA": "ISP",
+    "IATA": "ISP",
+    "ICAO": "KISP",
+    "Airport": "Long Island MacArthur Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Newburgh",
+    "State": "New York",
+    "FAA": "SWF",
+    "IATA": "SWF",
+    "ICAO": "KSWF",
+    "Airport": "New York Stewart International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Niagara Falls",
+    "State": "New York",
+    "FAA": "IAG",
+    "IATA": "IAG",
+    "ICAO": "KIAG",
+    "Airport": "Niagara Falls International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Ogdensburg",
+    "State": "New York",
+    "FAA": "OGS",
+    "IATA": "OGS",
+    "ICAO": "KOGS",
+    "Airport": "Ogdensburg International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Plattsburgh",
+    "State": "New York",
+    "FAA": "PBG",
+    "IATA": "PBG",
+    "ICAO": "KPBG",
+    "Airport": "Plattsburgh International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Rochester",
+    "State": "New York",
+    "FAA": "ROC",
+    "IATA": "ROC",
+    "ICAO": "KROC",
+    "Airport": "Frederick Douglass/Greater Rochester International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Syracuse",
+    "State": "New York",
+    "FAA": "SYR",
+    "IATA": "SYR",
+    "ICAO": "KSYR",
+    "Airport": "Syracuse Hancock International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Watertown",
+    "State": "New York",
+    "FAA": "ART",
+    "IATA": "ART",
+    "ICAO": "KART",
+    "Airport": "Watertown International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "White Plains",
+    "State": "New York",
+    "FAA": "HPN",
+    "IATA": "HPN",
+    "ICAO": "KHPN",
+    "Airport": "Westchester County Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Asheville",
+    "State": "North Carolina",
+    "FAA": "AVL",
+    "IATA": "AVL",
+    "ICAO": "KAVL",
+    "Airport": "Asheville Regional Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Charlotte",
+    "State": "North Carolina",
+    "FAA": "CLT",
+    "IATA": "CLT",
+    "ICAO": "KCLT",
+    "Airport": "Charlotte Douglas International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Concord",
+    "State": "North Carolina",
+    "FAA": "JQF",
+    "IATA": "USA",
+    "ICAO": "KJQF",
+    "Airport": "Concord-Padgett Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Fayetteville",
+    "State": "North Carolina",
+    "FAA": "FAY",
+    "IATA": "FAY",
+    "ICAO": "KFAY",
+    "Airport": "Fayetteville Regional Airport (Grannis Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Greensboro",
+    "State": "North Carolina",
+    "FAA": "GSO",
+    "IATA": "GSO",
+    "ICAO": "KGSO",
+    "Airport": "Piedmont Triad International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Greenville",
+    "State": "North Carolina",
+    "FAA": "PGV",
+    "IATA": "PGV",
+    "ICAO": "KPGV",
+    "Airport": "Pitt–Greenville Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Jacksonville",
+    "State": "North Carolina",
+    "FAA": "OAJ",
+    "IATA": "OAJ",
+    "ICAO": "KOAJ",
+    "Airport": "Albert J. Ellis Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "New Bern",
+    "State": "North Carolina",
+    "FAA": "EWN",
+    "IATA": "EWN",
+    "ICAO": "KEWN",
+    "Airport": "Coastal Carolina Regional Airport (was Craven County Regional)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Raleigh",
+    "State": "North Carolina",
+    "FAA": "RDU",
+    "IATA": "RDU",
+    "ICAO": "KRDU",
+    "Airport": "Raleigh–Durham International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Wilmington",
+    "State": "North Carolina",
+    "FAA": "ILM",
+    "IATA": "ILM",
+    "ICAO": "KILM",
+    "Airport": "Wilmington International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Bismarck",
+    "State": "North Dakota",
+    "FAA": "BIS",
+    "IATA": "BIS",
+    "ICAO": "KBIS",
+    "Airport": "Bismarck Municipal Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Dickinson",
+    "State": "North Dakota",
+    "FAA": "DIK",
+    "IATA": "DIK",
+    "ICAO": "KDIK",
+    "Airport": "Dickinson Theodore Roosevelt Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Fargo",
+    "State": "North Dakota",
+    "FAA": "FAR",
+    "IATA": "FAR",
+    "ICAO": "KFAR",
+    "Airport": "Hector International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Grand Forks",
+    "State": "North Dakota",
+    "FAA": "GFK",
+    "IATA": "GFK",
+    "ICAO": "KGFK",
+    "Airport": "Grand Forks International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Jamestown",
+    "State": "North Dakota",
+    "FAA": "JMS",
+    "IATA": "JMS",
+    "ICAO": "KJMS",
+    "Airport": "Jamestown Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Minot",
+    "State": "North Dakota",
+    "FAA": "MOT",
+    "IATA": "MOT",
+    "ICAO": "KMOT",
+    "Airport": "Minot International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Williston",
+    "State": "North Dakota",
+    "FAA": "XWA",
+    "IATA": "XWA",
+    "ICAO": "KXWA",
+    "Airport": "Williston Basin International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Akron / Canton",
+    "State": "Ohio",
+    "FAA": "CAK",
+    "IATA": "CAK",
+    "ICAO": "KCAK",
+    "Airport": "Akron-Canton Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Cleveland",
+    "State": "Ohio",
+    "FAA": "CLE",
+    "IATA": "CLE",
+    "ICAO": "KCLE",
+    "Airport": "Cleveland Hopkins International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Columbus",
+    "State": "Ohio",
+    "FAA": "CMH",
+    "IATA": "CMH",
+    "ICAO": "KCMH",
+    "Airport": "John Glenn Columbus International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Columbus",
+    "State": "Ohio",
+    "FAA": "LCK",
+    "IATA": "LCK",
+    "ICAO": "KLCK",
+    "Airport": "Rickenbacker International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Dayton",
+    "State": "Ohio",
+    "FAA": "DAY",
+    "IATA": "DAY",
+    "ICAO": "KDAY",
+    "Airport": "James M. Cox Dayton International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Toledo",
+    "State": "Ohio",
+    "FAA": "TOL",
+    "IATA": "TOL",
+    "ICAO": "KTOL",
+    "Airport": "Eugene F. Kranz Toledo Express Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lawton",
+    "State": "Oklahoma",
+    "FAA": "LAW",
+    "IATA": "LAW",
+    "ICAO": "KLAW",
+    "Airport": "Lawton–Fort Sill Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Oklahoma City",
+    "State": "Oklahoma",
+    "FAA": "OKC",
+    "IATA": "OKC",
+    "ICAO": "KOKC",
+    "Airport": "Will Rogers World Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Stillwater",
+    "State": "Oklahoma",
+    "FAA": "SWO",
+    "IATA": "SWO",
+    "ICAO": "KSWO",
+    "Airport": "Stillwater Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Tulsa",
+    "State": "Oklahoma",
+    "FAA": "TUL",
+    "IATA": "TUL",
+    "ICAO": "KTUL",
+    "Airport": "Tulsa International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Eugene",
+    "State": "Oregon",
+    "FAA": "EUG",
+    "IATA": "EUG",
+    "ICAO": "KEUG",
+    "Airport": "Mahlon Sweet Field",
+    "Role": "P-S"
+  },
+  {
+    "City": "Medford",
+    "State": "Oregon",
+    "FAA": "MFR",
+    "IATA": "MFR",
+    "ICAO": "KMFR",
+    "Airport": "Rogue Valley International–Medford Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "North Bend",
+    "State": "Oregon",
+    "FAA": "OTH",
+    "IATA": "OTH",
+    "ICAO": "KOTH",
+    "Airport": "Southwest Oregon Regional Airport (was North Bend Municipal)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Portland",
+    "State": "Oregon",
+    "FAA": "PDX",
+    "IATA": "PDX",
+    "ICAO": "KPDX",
+    "Airport": "Portland International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Redmond",
+    "State": "Oregon",
+    "FAA": "RDM",
+    "IATA": "RDM",
+    "ICAO": "KRDM",
+    "Airport": "Roberts Field",
+    "Role": "P-N"
+  },
+  {
+    "City": "Allentown",
+    "State": "Pennsylvania",
+    "FAA": "ABE",
+    "IATA": "ABE",
+    "ICAO": "KABE",
+    "Airport": "Lehigh Valley International Airport (was Allentown–Bethlehem–Easton International Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Erie",
+    "State": "Pennsylvania",
+    "FAA": "ERI",
+    "IATA": "ERI",
+    "ICAO": "KERI",
+    "Airport": "Erie International Airport (Tom Ridge Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Harrisburg",
+    "State": "Pennsylvania",
+    "FAA": "MDT",
+    "IATA": "MDT",
+    "ICAO": "KMDT",
+    "Airport": "Harrisburg International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Latrobe",
+    "State": "Pennsylvania",
+    "FAA": "LBE",
+    "IATA": "LBE",
+    "ICAO": "KLBE",
+    "Airport": "Arnold Palmer Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "FAA": "PHL",
+    "IATA": "PHL",
+    "ICAO": "KPHL",
+    "Airport": "Philadelphia International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Pittsburgh",
+    "State": "Pennsylvania",
+    "FAA": "PIT",
+    "IATA": "PIT",
+    "ICAO": "KPIT",
+    "Airport": "Pittsburgh International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "State College",
+    "State": "Pennsylvania",
+    "FAA": "UNV",
+    "IATA": "SCE",
+    "ICAO": "KUNV",
+    "Airport": "University Park Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Wilkes-Barre / Scranton",
+    "State": "Pennsylvania",
+    "FAA": "AVP",
+    "IATA": "AVP",
+    "ICAO": "KAVP",
+    "Airport": "Wilkes-Barre/Scranton International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Williamsport",
+    "State": "Pennsylvania",
+    "FAA": "IPT",
+    "IATA": "IPT",
+    "ICAO": "KIPT",
+    "Airport": "Williamsport Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Block Island",
+    "State": "Rhode Island",
+    "FAA": "BID",
+    "IATA": "BID",
+    "ICAO": "KBID",
+    "Airport": "Block Island State Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Providence",
+    "State": "Rhode Island",
+    "FAA": "PVD",
+    "IATA": "PVD",
+    "ICAO": "KPVD",
+    "Airport": "Rhode Island T. F. Green International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Westerly",
+    "State": "Rhode Island",
+    "FAA": "WST",
+    "IATA": "WST",
+    "ICAO": "KWST",
+    "Airport": "Westerly State Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Charleston",
+    "State": "South Carolina",
+    "FAA": "CHS",
+    "IATA": "CHS",
+    "ICAO": "KCHS",
+    "Airport": "Charleston International Airport / Charleston AFB",
+    "Role": "P-S"
+  },
+  {
+    "City": "Columbia",
+    "State": "South Carolina",
+    "FAA": "CAE",
+    "IATA": "CAE",
+    "ICAO": "KCAE",
+    "Airport": "Columbia Metropolitan Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Florence",
+    "State": "South Carolina",
+    "FAA": "FLO",
+    "IATA": "FLO",
+    "ICAO": "KFLO",
+    "Airport": "Florence Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Greenville",
+    "State": "South Carolina",
+    "FAA": "GSP",
+    "IATA": "GSP",
+    "ICAO": "KGSP",
+    "Airport": "Greenville–Spartanburg International Airport (Roger Milliken Field)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Hilton Head",
+    "State": "South Carolina",
+    "FAA": "HXD",
+    "IATA": "HHH",
+    "ICAO": "KHXD",
+    "Airport": "Hilton Head Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Myrtle Beach",
+    "State": "South Carolina",
+    "FAA": "MYR",
+    "IATA": "MYR",
+    "ICAO": "KMYR",
+    "Airport": "Myrtle Beach International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Aberdeen",
+    "State": "South Dakota",
+    "FAA": "ABR",
+    "IATA": "ABR",
+    "ICAO": "KABR",
+    "Airport": "Aberdeen Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Pierre",
+    "State": "South Dakota",
+    "FAA": "PIR",
+    "IATA": "PIR",
+    "ICAO": "KPIR",
+    "Airport": "Pierre Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Rapid City",
+    "State": "South Dakota",
+    "FAA": "RAP",
+    "IATA": "RAP",
+    "ICAO": "KRAP",
+    "Airport": "Rapid City Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Sioux Falls",
+    "State": "South Dakota",
+    "FAA": "FSD",
+    "IATA": "FSD",
+    "ICAO": "KFSD",
+    "Airport": "Joe Foss Field",
+    "Role": "P-S"
+  },
+  {
+    "City": "Watertown",
+    "State": "South Dakota",
+    "FAA": "ATY",
+    "IATA": "ATY",
+    "ICAO": "KATY",
+    "Airport": "Watertown Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Chattanooga",
+    "State": "Tennessee",
+    "FAA": "CHA",
+    "IATA": "CHA",
+    "ICAO": "KCHA",
+    "Airport": "Lovell Field",
+    "Role": "P-S"
+  },
+  {
+    "City": "Knoxville",
+    "State": "Tennessee",
+    "FAA": "TYS",
+    "IATA": "TYS",
+    "ICAO": "KTYS",
+    "Airport": "McGhee Tyson Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Memphis",
+    "State": "Tennessee",
+    "FAA": "MEM",
+    "IATA": "MEM",
+    "ICAO": "KMEM",
+    "Airport": "Memphis International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Nashville",
+    "State": "Tennessee",
+    "FAA": "BNA",
+    "IATA": "BNA",
+    "ICAO": "KBNA",
+    "Airport": "Nashville International Airport (Berry Field)",
+    "Role": "P-M"
+  },
+  {
+    "City": "Tri-Cities",
+    "State": "Tennessee",
+    "FAA": "TRI",
+    "IATA": "TRI",
+    "ICAO": "KTRI",
+    "Airport": "Tri-Cities Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Abilene",
+    "State": "Texas",
+    "FAA": "ABI",
+    "IATA": "ABI",
+    "ICAO": "KABI",
+    "Airport": "Abilene Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Amarillo",
+    "State": "Texas",
+    "FAA": "AMA",
+    "IATA": "AMA",
+    "ICAO": "KAMA",
+    "Airport": "Rick Husband Amarillo International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Austin",
+    "State": "Texas",
+    "FAA": "AUS",
+    "IATA": "AUS",
+    "ICAO": "KAUS",
+    "Airport": "Austin–Bergstrom International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Beaumont",
+    "State": "Texas",
+    "FAA": "BPT",
+    "IATA": "BPT",
+    "ICAO": "KBPT",
+    "Airport": "Jack Brooks Regional Airport (was Southeast Texas Regional)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Brownsville",
+    "State": "Texas",
+    "FAA": "BRO",
+    "IATA": "BRO",
+    "ICAO": "KBRO",
+    "Airport": "Brownsville/South Padre Island International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "College Station",
+    "State": "Texas",
+    "FAA": "CLL",
+    "IATA": "CLL",
+    "ICAO": "KCLL",
+    "Airport": "Easterwood Field",
+    "Role": "P-N"
+  },
+  {
+    "City": "Corpus Christi",
+    "State": "Texas",
+    "FAA": "CRP",
+    "IATA": "CRP",
+    "ICAO": "KCRP",
+    "Airport": "Corpus Christi International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Dallas",
+    "State": "Texas",
+    "FAA": "DAL",
+    "IATA": "DAL",
+    "ICAO": "KDAL",
+    "Airport": "Dallas Love Field",
+    "Role": "P-M"
+  },
+  {
+    "City": "Dallas",
+    "State": "Texas",
+    "FAA": "DFW",
+    "IATA": "DFW",
+    "ICAO": "KDFW",
+    "Airport": "Dallas Fort Worth International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "El Paso",
+    "State": "Texas",
+    "FAA": "ELP",
+    "IATA": "ELP",
+    "ICAO": "KELP",
+    "Airport": "El Paso International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Harlingen",
+    "State": "Texas",
+    "FAA": "HRL",
+    "IATA": "HRL",
+    "ICAO": "KHRL",
+    "Airport": "Valley International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Houston",
+    "State": "Texas",
+    "FAA": "IAH",
+    "IATA": "IAH",
+    "ICAO": "KIAH",
+    "Airport": "George Bush Intercontinental/Houston Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Houston",
+    "State": "Texas",
+    "FAA": "HOU",
+    "IATA": "HOU",
+    "ICAO": "KHOU",
+    "Airport": "William P. Hobby Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Killeen",
+    "State": "Texas",
+    "FAA": "GRK",
+    "IATA": "GRK",
+    "ICAO": "KGRK",
+    "Airport": "Killeen–Fort Hood Regional Airport / Robert Gray Army Airfield",
+    "Role": "P-N"
+  },
+  {
+    "City": "Laredo",
+    "State": "Texas",
+    "FAA": "LRD",
+    "IATA": "LRD",
+    "ICAO": "KLRD",
+    "Airport": "Laredo International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Longview",
+    "State": "Texas",
+    "FAA": "GGG",
+    "IATA": "GGG",
+    "ICAO": "KGGG",
+    "Airport": "East Texas Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lubbock",
+    "State": "Texas",
+    "FAA": "LBB",
+    "IATA": "LBB",
+    "ICAO": "KLBB",
+    "Airport": "Lubbock Preston Smith International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "McAllen",
+    "State": "Texas",
+    "FAA": "MFE",
+    "IATA": "MFE",
+    "ICAO": "KMFE",
+    "Airport": "McAllen Miller International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Midland / Odessa",
+    "State": "Texas",
+    "FAA": "MAF",
+    "IATA": "MAF",
+    "ICAO": "KMAF",
+    "Airport": "Midland International Air and Space Port",
+    "Role": "P-S"
+  },
+  {
+    "City": "San Angelo",
+    "State": "Texas",
+    "FAA": "SJT",
+    "IATA": "SJT",
+    "ICAO": "KSJT",
+    "Airport": "San Angelo Regional Airport (Mathis Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "San Antonio",
+    "State": "Texas",
+    "FAA": "SAT",
+    "IATA": "SAT",
+    "ICAO": "KSAT",
+    "Airport": "San Antonio International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Tyler",
+    "State": "Texas",
+    "FAA": "TYR",
+    "IATA": "TYR",
+    "ICAO": "KTYR",
+    "Airport": "Tyler Pounds Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Waco",
+    "State": "Texas",
+    "FAA": "ACT",
+    "IATA": "ACT",
+    "ICAO": "KACT",
+    "Airport": "Waco Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Wichita Falls",
+    "State": "Texas",
+    "FAA": "SPS",
+    "IATA": "SPS",
+    "ICAO": "KSPS",
+    "Airport": "Wichita Falls Municipal Airport / Sheppard Air Force Base",
+    "Role": "P-N"
+  },
+  {
+    "City": "Cedar City",
+    "State": "Utah",
+    "FAA": "CDC",
+    "IATA": "CDC",
+    "ICAO": "KCDC",
+    "Airport": "Cedar City Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Moab",
+    "State": "Utah",
+    "FAA": "CNY",
+    "IATA": "CNY",
+    "ICAO": "KCNY",
+    "Airport": "Canyonlands Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Ogden",
+    "State": "Utah",
+    "FAA": "OGD",
+    "IATA": "OGD",
+    "ICAO": "KOGD",
+    "Airport": "Ogden-Hinckley Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Provo",
+    "State": "Utah",
+    "FAA": "PVU",
+    "IATA": "PVU",
+    "ICAO": "KPVU",
+    "Airport": "Provo Municipal Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "St. George",
+    "State": "Utah",
+    "FAA": "SGU",
+    "IATA": "SGU",
+    "ICAO": "KSGU",
+    "Airport": "St. George Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "FAA": "SLC",
+    "IATA": "SLC",
+    "ICAO": "KSLC",
+    "Airport": "Salt Lake City International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Vernal",
+    "State": "Utah",
+    "FAA": "VEL",
+    "IATA": "VEL",
+    "ICAO": "KVEL",
+    "Airport": "Vernal Regional Airport (was Vernal-Uintah Co. Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Burlington",
+    "State": "Vermont",
+    "FAA": "BTV",
+    "IATA": "BTV",
+    "ICAO": "KBTV",
+    "Airport": "Burlington International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Charlottesville",
+    "State": "Virginia",
+    "FAA": "CHO",
+    "IATA": "CHO",
+    "ICAO": "KCHO",
+    "Airport": "Charlottesville–Albemarle Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lynchburg",
+    "State": "Virginia",
+    "FAA": "LYH",
+    "IATA": "LYH",
+    "ICAO": "KLYH",
+    "Airport": "Lynchburg Regional Airport (Preston Glenn Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Newport News",
+    "State": "Virginia",
+    "FAA": "PHF",
+    "IATA": "PHF",
+    "ICAO": "KPHF",
+    "Airport": "Newport News/Williamsburg International Airport (Patrick Henry Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Norfolk",
+    "State": "Virginia",
+    "FAA": "ORF",
+    "IATA": "ORF",
+    "ICAO": "KORF",
+    "Airport": "Norfolk International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Richmond",
+    "State": "Virginia",
+    "FAA": "RIC",
+    "IATA": "RIC",
+    "ICAO": "KRIC",
+    "Airport": "Richmond International Airport (Byrd Field)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Roanoke",
+    "State": "Virginia",
+    "FAA": "ROA",
+    "IATA": "ROA",
+    "ICAO": "KROA",
+    "Airport": "Roanoke–Blacksburg Regional Airport (Woodrum Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Staunton / Waynesboro / Harrisonburg",
+    "State": "Virginia",
+    "FAA": "SHD",
+    "IATA": "SHD",
+    "ICAO": "KSHD",
+    "Airport": "Shenandoah Valley Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Washington, D.C. / Arlington",
+    "State": "Virginia",
+    "FAA": "DCA",
+    "IATA": "DCA",
+    "ICAO": "KDCA",
+    "Airport": "Ronald Reagan Washington National Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Washington, D.C. / Dulles / Chantilly",
+    "State": "Virginia",
+    "FAA": "IAD",
+    "IATA": "IAD",
+    "ICAO": "KIAD",
+    "Airport": "Washington Dulles International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Bellingham",
+    "State": "Washington",
+    "FAA": "BLI",
+    "IATA": "BLI",
+    "ICAO": "KBLI",
+    "Airport": "Bellingham International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Eastsound",
+    "State": "Washington",
+    "FAA": "ORS",
+    "IATA": "ESD",
+    "ICAO": "KORS",
+    "Airport": "Orcas Island Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Friday Harbor",
+    "State": "Washington",
+    "FAA": "FHR",
+    "IATA": "FRD",
+    "ICAO": "KFHR",
+    "Airport": "Friday Harbor Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Pasco",
+    "State": "Washington",
+    "FAA": "PSC",
+    "IATA": "PSC",
+    "ICAO": "KPSC",
+    "Airport": "Tri-Cities Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Pullman / Moscow, Idaho",
+    "State": "Washington",
+    "FAA": "PUW",
+    "IATA": "PUW",
+    "ICAO": "KPUW",
+    "Airport": "Pullman–Moscow Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Seattle",
+    "State": "Washington",
+    "FAA": "BFI",
+    "IATA": "BFI",
+    "ICAO": "KBFI",
+    "Airport": "King County International Airport (Boeing Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Seattle / Tacoma (SeaTac)",
+    "State": "Washington",
+    "FAA": "SEA",
+    "IATA": "SEA",
+    "ICAO": "KSEA",
+    "Airport": "Seattle–Tacoma International Airport",
+    "Role": "P-L"
+  },
+  {
+    "City": "Spokane",
+    "State": "Washington",
+    "FAA": "GEG",
+    "IATA": "GEG",
+    "ICAO": "KGEG",
+    "Airport": "Spokane International Airport (Geiger Field)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Walla Walla",
+    "State": "Washington",
+    "FAA": "ALW",
+    "IATA": "ALW",
+    "ICAO": "KALW",
+    "Airport": "Walla Walla Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Wenatchee",
+    "State": "Washington",
+    "FAA": "EAT",
+    "IATA": "EAT",
+    "ICAO": "KEAT",
+    "Airport": "Pangborn Memorial Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Yakima",
+    "State": "Washington",
+    "FAA": "YKM",
+    "IATA": "YKM",
+    "ICAO": "KYKM",
+    "Airport": "Yakima Air Terminal (McAllister Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Charleston",
+    "State": "West Virginia",
+    "FAA": "CRW",
+    "IATA": "CRW",
+    "ICAO": "KCRW",
+    "Airport": "Yeager Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Clarksburg",
+    "State": "West Virginia",
+    "FAA": "CKB",
+    "IATA": "CKB",
+    "ICAO": "KCKB",
+    "Airport": "North Central West Virginia Airport (was Harrison-Marion Regional)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Huntington",
+    "State": "West Virginia",
+    "FAA": "HTS",
+    "IATA": "HTS",
+    "ICAO": "KHTS",
+    "Airport": "Tri-State Airport (Milton J. Ferguson Field)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Lewisburg",
+    "State": "West Virginia",
+    "FAA": "LWB",
+    "IATA": "LWB",
+    "ICAO": "KLWB",
+    "Airport": "Greenbrier Valley Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Appleton",
+    "State": "Wisconsin",
+    "FAA": "ATW",
+    "IATA": "ATW",
+    "ICAO": "KATW",
+    "Airport": "Appleton International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Eau Claire",
+    "State": "Wisconsin",
+    "FAA": "EAU",
+    "IATA": "EAU",
+    "ICAO": "KEAU",
+    "Airport": "Chippewa Valley Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Green Bay",
+    "State": "Wisconsin",
+    "FAA": "GRB",
+    "IATA": "GRB",
+    "ICAO": "KGRB",
+    "Airport": "Green Bay–Austin Straubel International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "La Crosse",
+    "State": "Wisconsin",
+    "FAA": "LSE",
+    "IATA": "LSE",
+    "ICAO": "KLSE",
+    "Airport": "La Crosse Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Madison",
+    "State": "Wisconsin",
+    "FAA": "MSN",
+    "IATA": "MSN",
+    "ICAO": "KMSN",
+    "Airport": "Dane County Regional Airport (Truax Field)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Milwaukee",
+    "State": "Wisconsin",
+    "FAA": "MKE",
+    "IATA": "MKE",
+    "ICAO": "KMKE",
+    "Airport": "Milwaukee Mitchell International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Mosinee",
+    "State": "Wisconsin",
+    "FAA": "CWA",
+    "IATA": "CWA",
+    "ICAO": "KCWA",
+    "Airport": "Central Wisconsin Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Rhinelander",
+    "State": "Wisconsin",
+    "FAA": "RHI",
+    "IATA": "RHI",
+    "ICAO": "KRHI",
+    "Airport": "Rhinelander–Oneida County Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Casper",
+    "State": "Wyoming",
+    "FAA": "CPR",
+    "IATA": "CPR",
+    "ICAO": "KCPR",
+    "Airport": "Casper–Natrona County International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Cody",
+    "State": "Wyoming",
+    "FAA": "COD",
+    "IATA": "COD",
+    "ICAO": "KCOD",
+    "Airport": "Yellowstone Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Gillette",
+    "State": "Wyoming",
+    "FAA": "GCC",
+    "IATA": "GCC",
+    "ICAO": "KGCC",
+    "Airport": "Gillette–Campbell County Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Jackson",
+    "State": "Wyoming",
+    "FAA": "JAC",
+    "IATA": "JAC",
+    "ICAO": "KJAC",
+    "Airport": "Jackson Hole Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Laramie",
+    "State": "Wyoming",
+    "FAA": "LAR",
+    "IATA": "LAR",
+    "ICAO": "KLAR",
+    "Airport": "Laramie Regional Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Riverton",
+    "State": "Wyoming",
+    "FAA": "RIW",
+    "IATA": "RIW",
+    "ICAO": "KRIW",
+    "Airport": "Central Wyoming Regional Airport (was Riverton Regional)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Rock Springs",
+    "State": "Wyoming",
+    "FAA": "RKS",
+    "IATA": "RKS",
+    "ICAO": "KRKS",
+    "Airport": "Southwest Wyoming Regional Airport (Rock Springs–Sweetwater County Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Sheridan",
+    "State": "Wyoming",
+    "FAA": "SHR",
+    "IATA": "SHR",
+    "ICAO": "KSHR",
+    "Airport": "Sheridan County Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Pago Pago, Tutuila",
+    "State": "American Samoa",
+    "FAA": "PPG",
+    "IATA": "PPG",
+    "ICAO": "NSTU",
+    "Airport": "Pago Pago International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Agana / Tamuning",
+    "State": "Guam",
+    "FAA": "GUM",
+    "IATA": "GUM",
+    "ICAO": "PGUM",
+    "Airport": "Antonio B. Won Pat International Airport",
+    "Role": "P-S"
+  },
+  {
+    "City": "Obyan, Saipan Island",
+    "State": "Northern Marianas",
+    "FAA": "GSN",
+    "IATA": "SPN",
+    "ICAO": "PGSN",
+    "Airport": "Saipan International Airport (Francisco C. Ada)",
+    "Role": "P-S"
+  },
+  {
+    "City": "Rota Island",
+    "State": "Northern Marianas",
+    "FAA": "GRO",
+    "IATA": "ROP",
+    "ICAO": "PGRO",
+    "Airport": "Rota International Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Tinian Island",
+    "State": "Northern Marianas",
+    "FAA": "TNI",
+    "IATA": "TIQ",
+    "ICAO": "PGWT",
+    "Airport": "Tinian International Airport (West Tinian)",
+    "Role": "P-N"
+  },
+  {
+    "City": "Aguadilla",
+    "State": "Puerto Rico",
+    "FAA": "BQN",
+    "IATA": "BQN",
+    "ICAO": "TJBQ",
+    "Airport": "Rafael Hernández Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Ceiba",
+    "State": "Puerto Rico",
+    "FAA": "RVR",
+    "IATA": "NRR",
+    "ICAO": "TJRV",
+    "Airport": "José Aponte de la Torre Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Culebra",
+    "State": "Puerto Rico",
+    "FAA": "CPX",
+    "IATA": "CPX",
+    "ICAO": "TJCP",
+    "Airport": "Benjamín Rivera Noriega Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Ponce",
+    "State": "Puerto Rico",
+    "FAA": "PSE",
+    "IATA": "PSE",
+    "ICAO": "TJPS",
+    "Airport": "Mercedita Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "San Juan",
+    "State": "Puerto Rico",
+    "FAA": "SIG",
+    "IATA": "SIG",
+    "ICAO": "TJIG",
+    "Airport": "Fernando Luis Ribas Dominicci Airport (Isla Grande Airport)",
+    "Role": "P-N"
+  },
+  {
+    "City": "San Juan / Carolina",
+    "State": "Puerto Rico",
+    "FAA": "SJU",
+    "IATA": "SJU",
+    "ICAO": "TJSJ",
+    "Airport": "Luis Muñoz Marín International Airport",
+    "Role": "P-M"
+  },
+  {
+    "City": "Vieques",
+    "State": "Puerto Rico",
+    "FAA": "VQS",
+    "IATA": "VQS",
+    "ICAO": "TJVQ",
+    "Airport": "Antonio Rivera Rodríguez Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Charlotte Amalie, St. Thomas",
+    "State": "U.S. Virgin Islands",
+    "FAA": "STT",
+    "IATA": "STT",
+    "ICAO": "TIST",
+    "Airport": "Cyril E. King Airport",
+    "Role": "P-N"
+  },
+  {
+    "City": "Christiansted, St. Croix",
+    "State": "U.S. Virgin Islands",
+    "FAA": "STX",
+    "IATA": "STX",
+    "ICAO": "TISX",
+    "Airport": "Henry E. Rohlsen Airport",
+    "Role": "P-N"
+  }
+]
